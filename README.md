@@ -1,7 +1,6 @@
+Name
 # Currency_conversion
 
-Name
-Currency conversion
 
 Background
 Currency conversion is one of the basic operations in the finance field - first step in any data transformation
